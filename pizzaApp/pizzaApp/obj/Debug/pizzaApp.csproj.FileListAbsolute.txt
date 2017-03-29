@@ -1,0 +1,6 @@
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\pizzaApp\pizzaApp\bin\Debug\pizzaApp.exe.config
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\pizzaApp\pizzaApp\bin\Debug\pizzaApp.exe
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\pizzaApp\pizzaApp\bin\Debug\pizzaApp.pdb
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\pizzaApp\pizzaApp\obj\Debug\pizzaApp.csprojResolveAssemblyReference.cache
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\pizzaApp\pizzaApp\obj\Debug\pizzaApp.exe
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\pizzaApp\pizzaApp\obj\Debug\pizzaApp.pdb

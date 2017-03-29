@@ -1,0 +1,6 @@
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\practice(26-3-17)\practice(26-3-17)\bin\Debug\practice(26-3-17).exe.config
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\practice(26-3-17)\practice(26-3-17)\bin\Debug\practice(26-3-17).exe
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\practice(26-3-17)\practice(26-3-17)\bin\Debug\practice(26-3-17).pdb
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\practice(26-3-17)\practice(26-3-17)\obj\Debug\practice(26-3-17).csprojResolveAssemblyReference.cache
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\practice(26-3-17)\practice(26-3-17)\obj\Debug\practice(26-3-17).exe
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\practice(26-3-17)\practice(26-3-17)\obj\Debug\practice(26-3-17).pdb

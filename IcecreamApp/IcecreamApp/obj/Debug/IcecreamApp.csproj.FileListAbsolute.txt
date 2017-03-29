@@ -1,0 +1,6 @@
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\IcecreamApp\IcecreamApp\bin\Debug\IcecreamApp.exe.config
+C:\Users\Muhammad Taha Qadri\Documents\Visual Studio 2015\Projects\IcecreamApp\IcecreamApp\bin\Debug\IcecreamApp.exe
+C:\Users\Muhammad Taha Qadri\Documents\Visual Studio 2015\Projects\IcecreamApp\IcecreamApp\bin\Debug\IcecreamApp.pdb
+C:\Users\Muhammad Taha Qadri\Documents\Visual Studio 2015\Projects\IcecreamApp\IcecreamApp\obj\Debug\IcecreamApp.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Taha Qadri\Documents\Visual Studio 2015\Projects\IcecreamApp\IcecreamApp\obj\Debug\IcecreamApp.exe
+C:\Users\Muhammad Taha Qadri\Documents\Visual Studio 2015\Projects\IcecreamApp\IcecreamApp\obj\Debug\IcecreamApp.pdb

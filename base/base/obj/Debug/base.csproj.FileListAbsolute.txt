@@ -1,0 +1,6 @@
+c:\users\muhammad taha qadri\documents\visual studio 2015\Projects\base\base\bin\Debug\@base.exe.config
+C:\Users\Muhammad Taha Qadri\documents\visual studio 2015\Projects\base\base\bin\Debug\@base.exe
+C:\Users\Muhammad Taha Qadri\documents\visual studio 2015\Projects\base\base\bin\Debug\@base.pdb
+C:\Users\Muhammad Taha Qadri\documents\visual studio 2015\Projects\base\base\obj\Debug\base.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Taha Qadri\documents\visual studio 2015\Projects\base\base\obj\Debug\@base.exe
+C:\Users\Muhammad Taha Qadri\documents\visual studio 2015\Projects\base\base\obj\Debug\@base.pdb
